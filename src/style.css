@@ -5,6 +5,13 @@ body{
     font-family: poppins;
     src: url(./fonts/Poppins-Medium.ttf);
 }
+.a-color{
+    border-bottom: 1px solid white;
+}
+.txt-decor{
+    color: white;
+    text-decoration: none;
+}
 .text1{
     color: #f86202;
     font-size: 45px;
@@ -35,18 +42,19 @@ body{
     margin-top: 10px;
     width: 100%;
     border-radius: 20px 24px;
+    height: 390px;
 }
 .text4{
     color: white;
     font-weight: bolder;
     font-size: 30px;
     position: relative;
-    bottom: 360px;
+    bottom: 370px;
 
 }
 .input1{
     position: relative;
-    bottom: 360px;
+    bottom: 370px;
     width: 95%;
     height: 6vh;
     border: none;
@@ -58,7 +66,7 @@ body{
 }
 .input2{
     position: relative;
-    bottom: 345px;
+    bottom: 355px;
     width: 95%;
     height: 6vh;
     border: none;
@@ -70,7 +78,7 @@ body{
 }
 .input3{
     position: relative;
-    bottom: 330px;
+    bottom: 340px;
     width: 95%;
     height: 6vh;
     border: none;
@@ -83,7 +91,7 @@ body{
 
 .input4{
     position: relative;
-    bottom: 315px;
+    bottom: 325px;
     width: 95%;
     height: 6vh;
     border: none;
@@ -95,7 +103,7 @@ body{
 }
 .input5{
     position: relative;
-    bottom: 300px;
+    bottom: 310px;
     width: 95%;
     height: 6vh;
     border: none;
@@ -109,7 +117,7 @@ body{
     background-color: #f86202;
     color: white;
     position: relative;
-    bottom: 285px;
+    bottom: 295px;
     width: 95%;
     height: 6vh;
     border: none;
