@@ -1,0 +1,117 @@
+body{
+    font-family: poppins;
+}
+@font-face {
+    font-family: poppins;
+    src: url(./fonts/Poppins-Medium.ttf);
+}
+.text1{
+    color: #f86202;
+    font-size: 45px;
+    font-weight: bolder;
+    
+}
+.text2{
+    color: #38495A;
+    font-size: 45px;
+    font-weight: bolder;
+    
+}
+.text3{
+    color: #52606e; 
+    font-size: 13px;
+}
+.search-icon{
+    background-image: url(./images/search_icond-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position-x: 250px;
+    background-position-y: center;
+    width: 10px;
+}
+
+.img1{
+    position: relative;
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 20px 24px;
+}
+.text4{
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+    position: relative;
+    bottom: 360px;
+
+}
+.input1{
+    position: relative;
+    bottom: 360px;
+    width: 95%;
+    height: 6vh;
+    border: none;
+    border-radius: 5px;
+}
+.input1:focus{
+    outline: none;
+    border: 1px solid #f86202;
+}
+.input2{
+    position: relative;
+    bottom: 345px;
+    width: 95%;
+    height: 6vh;
+    border: none;
+    border-radius: 5px;
+}
+.input2:focus{
+    outline: none;
+    border: 1px solid #f86202;
+}
+.input3{
+    position: relative;
+    bottom: 330px;
+    width: 95%;
+    height: 6vh;
+    border: none;
+    border-radius: 5px;
+}
+.input3:focus{
+    outline: none;
+    border: 1px solid #f86202;
+}
+
+.input4{
+    position: relative;
+    bottom: 315px;
+    width: 95%;
+    height: 6vh;
+    border: none;
+    border-radius: 5px;
+}
+.input4:focus{
+    outline: none;
+    border: 1px solid #f86202;
+}
+.input5{
+    position: relative;
+    bottom: 300px;
+    width: 95%;
+    height: 6vh;
+    border: none;
+    border-radius: 5px;
+}
+.input5:focus{
+    outline: none;
+    border: 1px solid #f86202;
+}
+.butn1{
+    background-color: #f86202;
+    color: white;
+    position: relative;
+    bottom: 285px;
+    width: 95%;
+    height: 6vh;
+    border: none;
+    border-radius: 5px;
+}
